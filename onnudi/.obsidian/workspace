@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "2da267fa762371eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "64aede863b5ad18b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DEV/1stnote.md",
+            "mode": "source"
+          }
+        },
+        "group": "24a550377e2de325"
+      },
+      {
+        "id": "73bb805263dd0925",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DEV/1stnote.md",
+            "mode": "preview"
+          }
+        },
+        "group": "24a550377e2de325"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b69a7872f7f2a2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e88736a446c7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fcec01f3d37e233",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14c23044dba42b57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc725a71e8ce2972",
+    "type": "split",
+    "children": [
+      {
+        "id": "d762caa66081f55c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3e9e0d89ce50609",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DEV/1stnote.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64aede863b5ad18b",
+  "lastOpenFiles": [
+    "DEV/1stnote.md",
+    "DEV/Untitled.md",
+    "Untitled.md"
+  ]
+}
